@@ -1,16 +1,14 @@
-# projects
-
 # Bwindi Community Hospital
 
 ## Introduction
 
 ### Background
 
-Bwindi Community Hospital (BCH) is a Not-For-Profit hospital in south-west Uganda, providing healthcare to rural and isolated communities. Although BCH actively fundraises to ensure the hospital running costs are covered, only 8\% of the hospital's funding comes from the Ugandan government, which means the hospital must charge patients at the point of healthcare delivery to ensure that all costs are covered.
+Bwindi Community Hospital (BCH) is a Not-For-Profit hospital in south-west Uganda, providing healthcare to rural and isolated communities. Although BCH actively fundraises to ensure the hospital running costs are covered, only 8% of the hospital's funding comes from the Ugandan government, which means the hospital must charge patients at the point of healthcare delivery to ensure that all costs are covered.
 
 The majority of BCH patients are subsistence farmers who earn low to no money, so they avoid seaking healthcare fearing the costs. In order to mitigate this problem and encourage patients to seak healthcare and improve the overall community access to healthcare, BCH has set up an insurance plan called eQuality. This plan allows patients to join via a Bataka group (local community groups) whereby the Bataka group joins in its entirety.
 
-BCH estimates that 90\% of the daily visits are by eQuality members. The remaining 10\% are from one-off visits and those who can afford to not have insurance. However, BCH also believes that the eQuality members are generally from the immediate vicinity and it would like to expand its offering of eQuality to the wider community by contacting individuals to pursuade them to join. 
+BCH estimates that 90% of the daily visits are by eQuality members. The remaining 10% are from one-off visits and those who can afford to not have insurance. However, BCH also believes that the eQuality members are generally from the immediate vicinity and it would like to expand its offering of eQuality to the wider community by contacting individuals to pursuade them to join. 
 
 ### Problem Statement
 
